@@ -1,0 +1,5 @@
+export { default as Navbar} from './Nav/Navbar'
+export { default as Hero } from './Hero/Hero'
+export { default as Desc } from './Desc/Desc'
+export { default as Gallery } from './Gallery/Gallery'
+export { default as Form } from './Form/Form'
